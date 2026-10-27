@@ -1,0 +1,1 @@
+SELECT * FROM sql7challenge.products;
